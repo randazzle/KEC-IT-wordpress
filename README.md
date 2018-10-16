@@ -14,7 +14,7 @@
 ![contact-us](/Screenshots/contact-us.png)
 
 ### Development
-Used WordPress 4.9.8 for developing the website on Windows 10
+Used **WordPress** 4.9.8 for developing the website on Windows 10
 
 ### Theme
 **OceanWP** Version 1.5.28
