@@ -3,4 +3,4 @@
 
 ##### Screenshots:
 
-![home](/Screenshot/home.png)
+![home](/Screenshots/home.png)
